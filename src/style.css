@@ -1,1 +1,13 @@
-@import './normalize.css'
+@import './normalize.css';
+
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+  --btn-primary: #0D6EFB;
+  --btn-success: #198655;
+  --btn-danger: #DE3647;
+}
+
+* {
+  box-sizing: border-box;
+}
